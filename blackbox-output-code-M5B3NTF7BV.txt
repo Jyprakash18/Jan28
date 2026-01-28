@@ -1,0 +1,4 @@
+python-telegram-bot==20.7
+razorpay==1.4.2
+flask==2.3.3  # For webhooks if needed
+psycopg2-binary==2.9.7  # For PostgreSQL database
